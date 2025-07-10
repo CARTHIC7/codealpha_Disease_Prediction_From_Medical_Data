@@ -1,4 +1,4 @@
-# codealpha_Disease_Prediction_From_Medical_Data
+# CodeAlpha_ML_Task2
 
 🩺 Disease Prediction from Medical Data using Machine Learning
 This project aims to predict common diseases — including Heart Disease, Diabetes, and Breast Cancer — using machine learning algorithms trained on synthetic medical data. The dataset simulates realistic features such as symptoms, age, blood test results, and vital signs to build predictive models that aid in early diagnosis.
